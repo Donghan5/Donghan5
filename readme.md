@@ -13,7 +13,6 @@ I’ve worked on several projects that reflect my learning journey. Feel free to
 
 ## 🌱 Currently Learning
 - Machine Learning fundamentals
-- Advanced C and funcdamentals C++ programming
-
-Let's connect and collaborate on exciting tech challenges!
+- Fundamental of basic of 3D Graphics with mlx library
+- C and C++ programming
 
