@@ -1,7 +1,7 @@
 # Welcome to My GitHub 👋
 
 Hi there! I'm currently studying at **42 Paris**, a leading institution in coding and software development.
-My passion lies in **AI/ML/Cybersecurity** and I'm always excited to explore cutting-edge technologies in these fields.
+My passion special lies in **AI/ML/Cybersecurity**, also have the interests in Game/3D Graphics/Web(Web 3.0 also).
 
 ## 🔧 Skills & Technologies
 - **Languages**: C, C++
