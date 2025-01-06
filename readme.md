@@ -5,7 +5,7 @@ My passion special lies in **AI/ML/Cybersecurity**, also have the interests in G
 
 ## 🔧 Skills & Technologies
 - **Languages**: C, C++
-- **Special Interests**: Artificial Intelligence, Machine Learning, Computer Vision, Large Language Model, Deep Learning and Cybersecurity
+- **Special Interests**: Data Science, Artificial Intelligence, Machine Learning, Computer Vision, Large Language Model, Deep Learning and Cybersecurity
 
 ## 💼 Projects
 I’ve worked on several projects that reflect my learning journey. Feel free to explore them here:
