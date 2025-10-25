@@ -4,15 +4,10 @@ Hi there! I'm currently studying at **42 Paris**, a leading institution in codin
 My passion special lies in **AI/ML**, also have the interests in Web.
 
 ## 🔧 Skills & Technologies
-- **Languages**: C, C++
-- **Special Interests**: Data Science, Artificial Intelligence, Machine Learning, Computer Vision, Large Language Model, Deep Learning
+- **Languages**: C, C++, TypeScript
+- **Special Interests**: Artificial Intelligence, Machine Learning, system programming
 
 ## 💼 Projects
 I’ve worked on several projects that reflect my learning journey. Feel free to explore them here:
-- [Project 1](https://github.com/Donghan5/42_Course) --> 42cursus projects (inner circle, in progress)
-
-## 🌱 Currently Learning
-- Machine Learning fundamentals
-- Fundamental of basic of 3D Graphics with mlx library
-- C and C++ programming
+- [Project 1](https://github.com/Donghan5/42_Course) --> 42cursus projects (inner circle, finished)
 
