@@ -12,7 +12,7 @@ Deeply interested in the intersection of **System Programming** and **Intelligen
 
 ## 🔧 Core Tech Stack
 - **Proficient:** C, C++, TypeScript, Shell
-- **Exploration:** Python, TensorFlow, React (또는 사용 중인 프레임워크)
+- **Exploration:** Python, React, PostgreSQL, K8s, Kafka
 
 ---
 "Continuous learning is my constant variable." 
