@@ -14,6 +14,9 @@ Deeply interested in the intersection of **System Programming** and **Intelligen
 - **Proficient:** C, C++, TypeScript, Shell
 - **Exploration:** Python, React, PostgreSQL, K8s, Kafka
 
+## Study with roadmap.sh
+[![roadmap.sh](https://roadmap.sh/card/tall/69369ebaf33145208b3a3008?variant=dark)](https://roadmap.sh)
+
 ---
 "Continuous learning is my constant variable." 
 Feel free to collaborate or chat about tech!
